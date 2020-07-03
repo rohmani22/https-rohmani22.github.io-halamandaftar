@@ -2,7 +2,6 @@
 
 .top-wrapper {
     font-size: 32px;
-    width: 100%;
 }
 
 }
@@ -16,6 +15,7 @@
 
     .top-wrapper {
         text-align: left;
+        background-size: 100%;
     }
 
     .top-wrapper h1 {
