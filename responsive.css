@@ -14,8 +14,8 @@
     }
 
     .top-wrapper {
+        width: 100%;
         text-align: left;
-        background-size: 100%;
     }
 
     .top-wrapper h1 {
